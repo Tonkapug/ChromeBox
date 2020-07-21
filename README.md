@@ -6,7 +6,7 @@
 <ul>
     <li>Go to the Kodi File Manager</li>
     <li>Click on "Add source"</li>
-    <li>The path for the source is <code>https://cbox.github.io/repo</code> (Give it the name "CBoxRepo")</li>
+    <li>The path for the source is <code>https://tonkapug.github.io/ChromeBox/repo</code> (Give it the name "CBoxRepo")</li>
 </ul>  
 
 

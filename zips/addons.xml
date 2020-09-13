@@ -68,7 +68,7 @@
   </extension>
 </addon>
 
-<addon id="script.709cb_tools" name="[B][COLOR=gray]709[/COLOR][/B]CB-Tools" version="1.1" provider-name="FTG, Tonkapug">
+<addon id="script.709cb_tools" name="[B][COLOR=gray]709[/COLOR][/B]CB-Tools" version="1.2" provider-name="FTG, Tonkapug">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
